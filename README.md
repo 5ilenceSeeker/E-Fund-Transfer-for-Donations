@@ -11,6 +11,7 @@ A responsive E-fund transfer donation web-application to empower the girl-child.
 - Fully Responsive.
 
 ## Logo:
+<img src="https://github.com/5ilenceSeeker/E-Fund-Transfer-for-Donations/blob/main/Screenhots/web2.png">
 
 
 ## Screenshots:
