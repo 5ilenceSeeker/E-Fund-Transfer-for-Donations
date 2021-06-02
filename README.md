@@ -15,7 +15,8 @@ A responsive E-fund transfer donation web-application to empower the girl-child.
 
 
 ## Screenshots:
-
+<img src="https://github.com/5ilenceSeeker/E-Fund-Transfer-for-Donations/blob/main/Screenhots/Screenshot%20from%202021-06-02%2000-06-20.png">
+     
 
 ## Deploy:
 <a href="https://happy-fermat-donateforcause-40bcb8.netlify.app/"></a>
